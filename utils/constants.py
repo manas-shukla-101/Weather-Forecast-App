@@ -1,3 +1,5 @@
+"Made by manas-shukla-101"
+
 STYLE_CONFIG = {
     'TFrame': {'background': '#f0f0f0'},
     'TLabel': {'background': '#f0f0f0', 'font': ('Segoe UI', 10)},
