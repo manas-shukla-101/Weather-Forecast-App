@@ -1,3 +1,5 @@
+"Made by manas-shukla-101"
+
 from tkinter import ttk
 from PIL import Image, ImageTk
 
