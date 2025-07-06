@@ -1,3 +1,5 @@
+"Made by manas-shukla-101"
+
 import tkinter as tk
 from tkinter import ttk, messagebox
 from services.weather_service import WeatherService
