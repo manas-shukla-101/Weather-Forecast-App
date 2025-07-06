@@ -1,3 +1,5 @@
+"Made by manas-shukla-101"
+
 import configparser
 import requests
 from time import time
