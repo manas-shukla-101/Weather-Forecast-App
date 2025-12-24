@@ -27,7 +27,7 @@ The project leverages the following technologies:
 - **API:** [AccuWeather API](https://developer.accuweather.com/)
 
 ## Steps to use:
-
+```steps
 Step 1: Install the required libraries in requirements.txt file.
 Step 2: Run the script using python weather_forecast.py.
 Step 3: Enter the city name when prompted.
@@ -38,6 +38,7 @@ Step 7: The script will also display the pressure and visibility for each day.
 Step 8: The script will also display the sunrise and sunset time for each day.
 Step 9: We can refresh the data by clicking on the refresh button.
 Step 10: We can save the location by clicking on the save button.
+```
 
 ## Project structure:
 ```text
@@ -136,6 +137,6 @@ I would like to thank my family and friends for their support and encouragement.
  Help: AI
  Contact: shuklamanas8928@gmail.com
  Contribution: None
-
  Licence: MIT
  ```
+
